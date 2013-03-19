@@ -1,0 +1,16 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#netbeans mapper#
+build
+nbproject
+dist
+nbdist
+
+#netbeans filer#
+build.xml
+manifest.mf
